@@ -1,0 +1,25 @@
+.chat-messages-create-container{
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-yellow-tourism-trolley-case-to-chat-with-image_13961.jpg");
+   background-repeat: no-repeat; 
+  /* background-attachment: fixed; */
+   background-size:cover; 
+  /* background-position: center;  */
+}
+  h1{
+    color:green;
+    margin:50px;
+    
+  }
+  h3{
+    color:red;
+    text-align: center;
+    margin-bottom:50px;
+  }
+a:hover {
+    background-color:lightslategrey;
+    border:solid 1px #000;
+    /* /* text-decoration: none; */
+} 
+a{
+  text-decoration: none;
+}
